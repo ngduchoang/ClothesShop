@@ -1,0 +1,242 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "hoang",
+      "password": "12345",
+      "name": "Nguyen Duc Hoang",
+      "email": "hoang@gmail.com",
+      "role": "admin",
+      "img": "/img/feedback/img1.jpg"
+    },
+    {
+      "id": 2,
+      "username": "hoang1",
+      "password": "12345",
+      "name": "Nguyen Duc Hoang1",
+      "email": "hoang1@gmail.com",
+      "role": "user",
+      "img": "/img/feedback/im2.jpg"
+    },
+    {
+      "id": "4",
+      "email": "phuc@gmail.com",
+      "name": "phuc"
+    },
+    {
+      "id": "vzXmSsV",
+      "email": "duchoangnguyen1998@gmail.com",
+      "name": "Nguyen Hoang"
+    },
+    {
+      "id": "ujmdwNC",
+      "email": "tranhgio15@gmail.com",
+      "name": "Nguyen Dang Vinh"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bag",
+      "img": "/img/categories/bag.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Demin",
+      "img": "/img/categories/demin.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jacket",
+      "img": "/img/categories/jacket.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Shoe",
+      "img": "/img/categories/shoes.jpg"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Edl Tee",
+      "img": "/img/topcontent/1.png",
+      "price": "195",
+      "event": "newarrival"
+    },
+    {
+      "id": 2,
+      "name": "Jacket Kaki",
+      "img": "/img/topcontent/2.png",
+      "price": "325",
+      "event": "newarrival"
+    },
+    {
+      "id": 3,
+      "name": "Jacket Jean",
+      "img": "/img/topcontent/3.png",
+      "price": "265",
+      "event": "newarrival"
+    },
+    {
+      "id": "5",
+      "name": "Jogger ",
+      "img": "/img/topcontent/4.png",
+      "price": "165",
+      "event": "newarrival"
+    },
+    {
+      "id": "6",
+      "name": "Timberland Boots",
+      "img": "/img/collection/img2.jpg",
+      "price": "759",
+      "event": "trending"
+    },
+    {
+      "id": "7",
+      "name": "Wing Tip",
+      "img": "/img/collection/img3.jpg",
+      "price": "899",
+      "event": "trending"
+    },
+    {
+      "id": "8",
+      "name": "Jacket Jean",
+      "img": "/img/collection/img1.jpg",
+      "price": "325",
+      "event": "trending"
+    },
+    {
+      "id": "9",
+      "name": "Hoddie Unisex",
+      "img": "/img/collection/img4.jpg",
+      "price": "249",
+      "event": "trending"
+    },
+    {
+      "id": "11",
+      "name": "Caro Vans Bag",
+      "img": "/img/collection/img6.jpg",
+      "price": "345",
+      "event": "trending"
+    },
+    {
+      "id": "10",
+      "name": "Baggy",
+      "img": "/img/collection/img5.jpg",
+      "price": "200",
+      "event": "trending"
+    },
+    {
+      "id": "12",
+      "name": "Edl Tee",
+      "img": "/img/bestsell/1.jpg",
+      "price": "195",
+      "event": "bestsell"
+    },
+    {
+      "id": "13",
+      "name": "Hoddie Unisex",
+      "img": "/img/bestsell/2.jpg",
+      "price": "249",
+      "event": "bestsell"
+    },
+    {
+      "id": "14",
+      "name": "Hoddie Unisex",
+      "img": "/img/bestsell/3.jpg",
+      "price": "249",
+      "event": "bestsell"
+    },
+    {
+      "id": "15",
+      "name": "Hoodie + Jogger",
+      "img": "/img/bestsell/4.jpg",
+      "price": "265",
+      "event": "bestsell"
+    },
+    {
+      "id": "16",
+      "name": "Hoddie Unisex",
+      "img": "/img/bestsell/5.jpg",
+      "price": "265",
+      "event": "bestsell"
+    },
+    {
+      "id": "17",
+      "name": "Edl Tee",
+      "img": "/img/bestsell/6.jpg",
+      "price": "195",
+      "event": "bestsell"
+    },
+    {
+      "id": "18",
+      "name": "Edl Tee",
+      "img": "/img/bestsell/7.jpg",
+      "price": "265",
+      "event": "bestsell"
+    },
+    {
+      "id": "19",
+      "name": "Edl Tee",
+      "img": "/img/bestsell/8.jpg",
+      "price": "265",
+      "event": "bestsell"
+    }
+  ],
+  "slider": [
+    {
+      "id": "1",
+      "img": "/img/slider/1.jpg"
+    },
+    {
+      "id": "2",
+      "img": "/img/slider/2.jpg"
+    },
+    {
+      "id": "3",
+      "img": "/img/slider/3.jpg"
+    },
+    {
+      "id": "4",
+      "img": "/img/slider/4.jpg"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "1",
+      "name": "Nguyen Hoang",
+      "feedback": "Loremipsum dolor sit amet consectetur adipisicing elit Nobis et ipsam quos cumque eos facilis minima magnam velit doloribus cupiditate aut iste vitae ipsum suscipit obcaecati aperiam aspernatur Nobisipsam quos cumque eos facilis minima magnam velit doloribus cupiditate aut iste vitae ipsum dolorem ut suscipit obcaecati aperiam aspernatur",
+      "img": "/img/feedback/img1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Nguyen Cong Phuong",
+      "feedback": "good",
+      "img": "/img/feedback/img1.jpg"
+    }
+  ],
+  "blog": [
+    {
+      "id": "1",
+      "name": "H Store",
+      "date": "-28,Dec,2018",
+      "title": "LONDON FASHION WEEK CANDY ROCK",
+      "img": "/img/blog/img1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Admin",
+      "date": "-18,Dec,2018",
+      "title": "NO.ONE'S DELTA SNEAKER DOESN'T WANT TO KNOW IT'S HANDMADE",
+      "img": "/img/blog/img2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "H-Store",
+      "date": "-18,Oct,2018",
+      "title": "HOW TO GIVE YOURSELF THE GIFT OF BETTER STYLE IN 2019",
+      "img": "/img/blog/img3.jpg"
+    }
+  ]
+}
